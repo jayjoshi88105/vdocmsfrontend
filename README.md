@@ -17,13 +17,13 @@
 
 In the project directory, you can run:
 
-### To Setup application according to `package.json`
+### Step1 - To Setup application according to `package.json`
 #### `npm install`
 
-### To Run Application
+### Step2 - To Run Application
 #### `npm start`
 
-### To Build App
+### Step3 - To Build App
 #### `npm run build`
 
 ### Exmaple for continue session after prompt  
