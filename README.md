@@ -25,3 +25,9 @@ In the project directory, you can run:
 
 ### To Build App
 #### `npm run build`
+
+### Exmaple for continue session after prompt  
+![](https://github.com/jayjoshi88105/vdocmsfrontend/blob/master/ezgif.com-video-to-gif%20(1).gif)
+
+### Exmaple for logout after prompt
+![](https://github.com/jayjoshi88105/vdocmsfrontend/blob/master/ezgif.com-video-to-gif.gif)
